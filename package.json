@@ -1,0 +1,27 @@
+{
+  "name": "ts-csv-parse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motty93/ts-csv-parse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/motty93/ts-csv-parse/issues"
+  },
+  "homepage": "https://github.com/motty93/ts-csv-parse#readme",
+  "dependencies": {
+    "csv-parse": "^5.5.5",
+    "fs": "^0.0.1-security",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  }
+}
